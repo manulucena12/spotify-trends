@@ -4,7 +4,7 @@ This dataset has been retrieved from [Kaggle](https://www.kaggle.com/datasets/am
 
 ## Visualization
 You can view the interactive notebook [here](https://github.com/manulucena12/spotify-trends/blob/main/main.ipynb) on GitHub.  
-If that doesn’t load properly, you can access the HTML version on my [portfolio](https://manulucenaportfolio.is-a.dev/spotify.html):  
+If that doesn’t load properly, you can access the HTML version on my [portfolio](https://manulucenaportfolio.is-a.dev/spotify.html)  
 
 ## Features
 This dataset contains the following columns:
